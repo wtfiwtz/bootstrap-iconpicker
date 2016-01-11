@@ -622,7 +622,8 @@
             'youtube-square',
 
             // Add Gleam specific additional icons (for icon picker)
-            'typeform'
+            'typeform',
+            'snapchat'
         ]};
     
 })(jQuery);
